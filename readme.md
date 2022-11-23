@@ -14,6 +14,7 @@ Se pdf:en "[MemoryGameRulesAndDesign](MemoryGameRulesAndDesign.pdf)" för design
 ### Friviligt krav
 * Gör så att kort-flip:et animeras
 * Skapa en hiscore som sparas i localStorage (se [mdn localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage))
+* Lägg till datorstyrd spelare
 
 ## Design
 Designen är sekundär. Huvudregeln är att det finns minst 12 stycken synliga memory par som går att vända på vid knapptryck och att poängen registreras för respektive spelare.
