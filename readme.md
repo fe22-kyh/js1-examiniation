@@ -5,7 +5,7 @@ Examiniationen för kursen Javascript del 1 är att skapa ett memoryspel i grupp
 
 Se pdf:en "[MemoryGameRulesAndDesign](MemoryGameRulesAndDesign.pdf)" för design och spelregler! Obs. Allt under wireframes är **endast** designförslag
 
-## Specifikation
+## Kravspecifikation
 
 * Ett memoryspel som föjer de grundregler som specificeras i pdf:en "[MemoryGameRulesAndDesign](MemoryGameRulesAndDesign.pdf)"
 * Spelet ska hantera två spelare
